@@ -1,0 +1,21 @@
+.hello-world{
+
+
+    background-color: black;
+}
+
+.css-class{
+
+background-color: deeppink;
+
+
+}
+div{
+border: 3px solid blue;
+
+}
+
+:host{
+
+    border: 4px solid green;
+}
